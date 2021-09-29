@@ -18,7 +18,7 @@ Praticar o uso de Javascript<br>
 <br>  
   
   <div style="display: inline_block"><br>
-    <img align="center" width:"70px" src="https://user-images.githubusercontent.com/85634326/135184338-3853e3d3-6567-40a3-b064-5a9c1aa451d7.png">
+    <img align="center" src="https://user-images.githubusercontent.com/85634326/135184338-3853e3d3-6567-40a3-b064-5a9c1aa451d7.png">
   </div>                                                                                                                                     
   
 # Fonte de Estudo

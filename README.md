@@ -5,7 +5,7 @@ Treinamento de Javascript do projeto Stopwatch do Codepen desenvolvido por Cathy
 
 Praticar o uso de Javascript<br>
 
-# Técnologias Utilizadas
+# Tecnologias Utilizadas
 
 <div style="display: inline_block"><br>
   <img align="center" alt="ale-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
